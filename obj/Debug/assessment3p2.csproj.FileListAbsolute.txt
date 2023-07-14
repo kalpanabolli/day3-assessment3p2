@@ -1,0 +1,16 @@
+D:\Mphasis\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.exe.config
+D:\Mphasis\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.exe
+D:\Mphasis\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.pdb
+D:\Mphasis\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.AssemblyReference.cache
+D:\Mphasis\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.CoreCompileInputs.cache
+D:\Mphasis\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.exe
+D:\Mphasis\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.pdb
+D:\Simply Learn\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.exe.config
+D:\Simply Learn\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.exe
+D:\Simply Learn\day3\assessment3p2\assessment3p2\bin\Debug\assessment3p2.pdb
+D:\Simply Learn\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.AssemblyReference.cache
+D:\Simply Learn\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.exe
+D:\Simply Learn\day3\assessment3p2\assessment3p2\obj\Debug\assessment3p2.pdb
